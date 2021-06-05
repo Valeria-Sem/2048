@@ -1,0 +1,10 @@
+C:\Users\leras\source\repos\game_2048\game_2048\bin\Debug\game_2048.exe.config
+C:\Users\leras\source\repos\game_2048\game_2048\bin\Debug\game_2048.exe
+C:\Users\leras\source\repos\game_2048\game_2048\bin\Debug\game_2048.pdb
+C:\Users\leras\source\repos\game_2048\game_2048\obj\Debug\game_2048.csprojAssemblyReference.cache
+C:\Users\leras\source\repos\game_2048\game_2048\obj\Debug\game_2048.Form1.resources
+C:\Users\leras\source\repos\game_2048\game_2048\obj\Debug\game_2048.Properties.Resources.resources
+C:\Users\leras\source\repos\game_2048\game_2048\obj\Debug\game_2048.csproj.GenerateResource.cache
+C:\Users\leras\source\repos\game_2048\game_2048\obj\Debug\game_2048.csproj.CoreCompileInputs.cache
+C:\Users\leras\source\repos\game_2048\game_2048\obj\Debug\game_2048.exe
+C:\Users\leras\source\repos\game_2048\game_2048\obj\Debug\game_2048.pdb
